@@ -1,0 +1,22 @@
+* {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+.nav-header {
+  display: flex;
+}
+
+
+.card {
+  padding: 10px;
+  
+  width: 100px;
+
+  border-radius: 5px;
+  border :2px solid black  ;
+}

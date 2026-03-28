@@ -1,0 +1,40 @@
+/* body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: row;
+}
+
+#ooo {
+    color: black;
+    transition: color 1s ease;
+} */
+form {
+    padding: 10px;
+    margin:10px;
+}
+
+p{
+    margin: 0;
+}
+
+.mb3 {
+    margin: 20px;
+}
+
+.card {
+    margin:10px;
+}
